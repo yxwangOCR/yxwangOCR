@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Node.js, MongoDB, Vue.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yxwangOCR](https://github.com/yxwangOCR)
+- 👨‍💻 All of my projects are available at [my portfolio](www.iwang.fr)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yixuan-w-a690877b/](https://www.linkedin.com/in/yixuan-w-a690877b/)
+- 📄 Know about my experiences at [LinkedIn](www.linkedin.com/in/yixuanwang-dev)
 
 
 <p align="left">
