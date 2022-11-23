@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yixuan</h1>
 <h3 align="center">A junior frontend developer</h3>
+
 - 🌱 I’m currently learning **Node.js, MongoDB, Vue.js**
 
 - 👨‍💻 All of my projects are available at [my portfolio](www.iwang.fr)
