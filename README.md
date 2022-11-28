@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yixuan</h1>
 <h3 align="center">A junior frontend developer</h3>
 
-- 🌱 I’m currently learning **Node.js, MongoDB, Vue.js**
+- 🌱 I’m currently learning **Node.js, MongoDB**
 
-- 👨‍💻 All of my projects are available at [my portfolio](www.iwang.fr)
+- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-yixuan-wang.vercel.app/)
 
 - 📄 Know about my experiences at [LinkedIn](www.linkedin.com/in/yixuanwang-dev)
 
