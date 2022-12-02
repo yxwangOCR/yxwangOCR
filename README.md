@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yixuan</h1>
+
 <h3 align="center">A junior frontend developer</h3>
+
+- 🇫🇷 I started a one-year frontend [online course](https://openclassrooms.com/fr/) on September, 2021 in France and I completed this course in November 2022.
 
 - 🌱 I’m currently learning **Node.js, MongoDB**
 
