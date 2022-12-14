@@ -8,6 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-yixuan-wang.vercel.app/)
 
+- 🚀 You can also find my Challenges on [Frontend mentor](https://www.frontendmentor.io/profile/yxwangOCR)
+
 - 📄 Know about my experiences at [LinkedIn](www.linkedin.com/in/yixuanwang-dev)
 
 
